@@ -1,3 +1,5 @@
+# <a href="https://madhav2008.github.io/Animated-Circular-Progress-Bar/">Live Demo</a>
+
 # Animated Circular Progress Indicator
 
 ![1_lJ32Bl-lHWmNMUSiSq17gQ](https://user-images.githubusercontent.com/72864817/171863780-16f7afb7-32a5-4547-a427-23c8a8ed0524.png)
@@ -11,4 +13,3 @@
 ## After
 
 ![image](https://user-images.githubusercontent.com/72864817/171851258-072799a0-30cf-4e83-be46-856720c9713e.png)
-
